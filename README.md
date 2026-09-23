@@ -32,8 +32,7 @@ CONDA dataset, within a point of the published JointBERT baseline, with a distil
 The more useful result is negative. Adding a time feature made every class worse, and the
 paper shows why: CONDA's labels are conditioned on content, not on time. `P(O | time bin)`
 stays within [0.727, 0.760] against a 0.742 marginal, and the mean KL from the marginal is
-0.006 bits. Chi-squared rejects independence at p=1.2e-38, but with N=26,914 that is the
-sample size talking rather than an effect.
+0.006 bits.
 
 **[cos184-python-course-materials](https://github.com/CameronLetendre/cos184-python-course-materials)**
 — The lecture notebooks I wrote and taught for COS 184, Introduction to Python. Twenty-four
@@ -48,6 +47,6 @@ health-adjacent documents under NDA, and the agent work is an active IRB study.
 Neither can be published, and I would rather say so than leave the gap unexplained. I am
 happy to talk about either in detail.
 
-## Elsewhere
+## Contact
 
 [LinkedIn](https://linkedin.com/in/cameronletendre/) · cameron.letendre@maine.edu · 
