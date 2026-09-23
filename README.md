@@ -5,7 +5,7 @@ NLP, Agentics, and machine learning in data science.
 
 **Currently**
 - Working with **MaineHealth Institute for Research** on NLP and ML research. Supported by a Student Research Fellowship
-- Working at the YESS Lab at the **University of Maine** on HLC Agentics research.
+- Working at the YESS Lab at the **University of Maine** on HCI agentics research.
 
 | | |
 |---|---|
@@ -22,7 +22,7 @@ NLP, Agentics, and machine learning in data science.
 
 **現在**
 - **MaineHealth Institute for Research** と連携し、NLPおよびMLの研究に取り組んでいます。学生研究フェローシップの支援を受けています
-- **メイン大学**のYESS Labで、HLCエージェントに関する研究に従事している。
+- **メイン大学**のYESS Labで、HCIエージェントに関する研究に従事している。
 - 2024年度、神田外語大学の交換留学生です。
 - 日本語能力試験（JLPT）N3を受験する予定です。
 ---
