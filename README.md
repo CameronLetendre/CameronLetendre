@@ -7,8 +7,9 @@ NLP, Agentics, and machine learning in data science.
 - Working with **MaineHealth Institute for Research** on NLP and ML research. Supported by a Student Research Fellowship
 - Working at the YESS Lab at the **University of Maine** on HLC Agentics research.
 
-Python · C# · Java · Dart · SQL · PyTorch · Hugging Face Transformers · Unity · Flutter · Firebase
-
+**NLP / ML** — Python · PyTorch · Hugging Face Transformers · scikit-learn · OCR (OpenCV, Tesseract)
+**Agents** — Anthropic API · eval harnesses (rubrics, LLM-as-judge) · TypeScript
+**Also** — C# / Unity · Dart / Flutter · FastAPI · SQL
 ---
 
 ## 日本語
